@@ -1,0 +1,10 @@
+{
+  "name": "make-form-data",
+  "version": "1.0.0",
+  "description": "Helper function that turns plain JS object into FormData",
+  "main": "index.js",
+  "repository": "git@github.com:dorkyboi/make-form-data.git",
+  "author": "Dmytro Kardava <dima.kardava@gmail.com>",
+  "license": "Apache License 2.0",
+  "private": false
+}
