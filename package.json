@@ -2,9 +2,26 @@
   "name": "make-form-data",
   "version": "1.0.0",
   "description": "Helper function that turns plain JS object into FormData",
+  "keywords": [
+    "form-data",
+    "formdata",
+    "form",
+    "data"
+  ],
   "main": "index.js",
-  "repository": "git@github.com:dorkyboi/make-form-data.git",
-  "author": "Dmytro Kardava <dima.kardava@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dorkyboi/make-form-data.git"
+  },
+  "homepage": "https://github.com/dorkyboi/make-form-data#readme",
+  "author": {
+    "name": "Dmytro Kardava",
+    "email": "dima.kardava@gmail.com",
+    "url": "https://github.com/dorkyboi"
+  },
   "license": "Apache-2.0",
-  "private": false
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/dorkyboi/make-form-data/issues"
+  }
 }
