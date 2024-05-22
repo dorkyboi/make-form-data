@@ -1,6 +1,6 @@
 {
   "name": "make-form-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper function that recursively turns plain JS object into FormData instance",
   "keywords": [
     "form-data",
